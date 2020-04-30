@@ -1,1 +1,1 @@
-Hello world! I have updated the page!
+Hello!
